@@ -7,4 +7,4 @@ async function conectaAPI() {
 addEventListener("message", () => {
     conectaAPI();
     setInterval(() => conectaAPI(), 5000);
-})
+});

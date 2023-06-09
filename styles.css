@@ -26,7 +26,16 @@
     background-color: var(--lilas);
 }
 
+.nome {
+    cursor: pointer;
+}
+
 .logo {
     height: 100px;
     width: 100px;
+    cursor: pointer;
+}
+
+.avatar {
+    cursor: pointer;
 }
